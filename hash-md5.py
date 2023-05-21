@@ -10,6 +10,8 @@ def bnr():
   
 bnr()
 print('\n')
+print('Telegram : https://t.me/dark_rat_py')
+print('\n')
 print('hash md5 = f9c24b8f961d48841a9838cca5274d8d')
 print('\n')
 hash = input('Enter your hash : ')
